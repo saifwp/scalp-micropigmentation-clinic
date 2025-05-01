@@ -1,5 +1,3 @@
-# smp-masters-website  
-A custom WordPress website developed for a leading scalp micropigmentation clinic in the USA. Features include treatment listings, booking/contact forms, and a responsive, SEO-optimized design to ensure a smooth and professional user experience.  
 # SMP Masters Website – [Live Website](https://smpmasters.com/) 
 
 ## Overview  
